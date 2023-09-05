@@ -57,7 +57,7 @@ The address:<br>"123 Maple Dr., St. Paul, Minn" is often spoken by TTS as:<br>"1
 {% include box.html type="end" %}
 {:/}
 
-W3C is developing normative specifications (standards) and guidance on best practices so that text-to-speech (TTS) synthesis pronounce HTML content (for example, web pages) correctly. This will allow content creators specify how words should be pronounced.
+W3C is developing normative specifications (standards) and guidance on best practices so that text-to-speech (TTS) synthesis pronounce HTML content (for example, web pages) correctly. This will allow content creators to specify how words should be pronounced.
 
 ## Explainer and User Scenarios
 
